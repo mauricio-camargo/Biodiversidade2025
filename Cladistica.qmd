@@ -45,7 +45,7 @@ format:
 :::
 
 ::: {.fragment fragment-index=2}
--  É um trabalho minucioso, mas gratificante (pdf dissertação).
+-  É um trabalho minucioso, mas gratificante.
 :::
 
 [^1]: 
@@ -356,7 +356,7 @@ Existe também a especiação *simpátrica*, (mesma pátria), que é um isolamen
 
 > Grupo monofilético é aquele formado por um ancestral e todos os seus descendentes, ou seja, possui um *ancestral comum exclusivo.*
 
-## Sinapomorfias e simplesiomorfias {.smaller}
+## Sinapomorfias e plesiomorfias {.smaller}
 
 -   Sinapomorfia: estado derivado. Define grupo monofilético.
 -   Plesiomorfia: estado ancestral. Define espécies que não fazem parte do grupo monofilético.
