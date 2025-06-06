@@ -167,20 +167,23 @@ Clitelo está presente em Oligochaeta e Hirudinea (chamos de Clitellata), repres
 -   Em alguns poliquetas, é possível encontrar brânquias em alguns parapódios.
 -   Em poliquetas tubículas, existem brânquias nos tentáculos.
 
-## Reprodução
+## Reprodução de oligoquetas
 
--   Todos possuem larva trocófora.
+-   Oligoquetas (Clitellata em geral) são monóicos (hermafroditas), mas fazem reprodução cruzada. Não libera gametas no ambiente, mas fecunda os ovos dentro de um casulo que é liberado no ambiente.
+
+
+## Reprodução de poliquetas
+-   Todos possuem larva trocófora.  
 
 ![](images/Reprod_Trocofora.png)
 
 
-## Reprodução
+## Reprodução de poliquetas
 
 -   Poliquetas são dióicos (sexos separados) e liberam seus gametas na água.
--   Clitellata são monóicos (hermafroditas), mas fazem reprodução cruzada. Não libera gametas no ambiente, mas fecunda os ovos dentro do corpo.
 -   A fertilização dos poliquetas errantes ocorre muitas vezes na coluna d'agua, liberando ovos que eclodem em larvas pelágicas, que em juvenil habitarão a meiofauna (próximo slide). 
 
-## Reprodução
+## Reprodução dos poliquetas
 
 ![](images/Reprod_poliq.png)
 

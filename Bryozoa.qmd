@@ -53,7 +53,7 @@ A sinapomorfia do grupo é a presença de **lofóforo**.
 
 ## Lofóforo {.smaller}
 
--   `Lofóforo` é uma estrutura tentacular em forma de anel ao redor da boca que serve para alimentação e que possui origem no celoma.
+-   `Lofóforo` é uma estrutura tentacular em forma de anel ao redor da boca que serve para alimentação, possuindo origem no celoma.
 -   Os tentáculos possuem cílios que provocam uma corrente de água que leva partículas nutritivas para a boca e participam das trocas gasosas.
 
 ![](images/Lofoforo.jpg){fig-align="\"center"}
