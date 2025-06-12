@@ -36,7 +36,7 @@ editor:
 
 ![](images/Filogenia2020.png){width="800" height="800"}
 
-## Notass sobre a filogenia dos Metazoa {.scrollable .smaller}
+## Notass sobree a filogenia dos Metazoa {.scrollable .smaller}
 
 ::: {.incremental}
 
