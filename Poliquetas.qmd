@@ -34,15 +34,15 @@ editor:
 
 ##  {.scrollable}
 
-![](images/Filogenia2020.png){width="1200" height="1200"}
+![](images/Filogenia2020.png){width="1600" height="1600"}
 
 ## Notas sobre a filogenia dos Metazoa {.scrollable .smaller}
 
 ::: {.incremental}
 
 -   Esta árvore é bastante recente (2020).\
--   `Ctenophora` e `Porifera` não são eumetazoa, e junto com `Placozoa`
-    e `Cnidaria`, não tem simetria bilateral.
+-   `Ctenophora` e `Porifera` são **parazoa**.
+-   Juntando com `Placozoa` e `Cnidaria`, não têm simetria bilateral.
 -   `Xenacoelomorpha` são acelomados que antes eram classificados como
     `Platyhelminthes` por serem vermes chatos.\
 -   Portanto, `Platyhelminthes` eram um grupo **parafilético**.\
