@@ -38,26 +38,18 @@ editor:
 
 ## Notas sobre a filogenia dos Metazoa {.scrollable .smaller}
 
-::: {.incremental}
-
--   Esta árvore é bastante recente (2020).\
--   `Ctenophora` e `Porifera` são **parazoa**.
--   Juntando com `Placozoa` e `Cnidaria`, não têm simetria bilateral.
--   `Xenacoelomorpha` são acelomados que antes eram classificados como
-    `Platyhelminthes` por serem vermes chatos.\
--   Portanto, `Platyhelminthes` eram um grupo **parafilético**.\
--   `Xenacoelomorpha` não tem celoma nem nenhum sistema mais complexo.
-    `Platyhelminthes` tem pseudo-celoma e `Annelida` tem celoma
-    verdadeiro, e ambos são `Nephrozoa`, que possuem nefrídeos.\
--   Em `Protostomia`, o blastóporo se torna a boca e em `Deuterostomia`
-    se torna o ânus.
+-   Esta árvore é bastante recente (2020).
+-   `Ctenophora` e `Porifera` são **Parazoários**. O restante dos invertebrados são **Metazoários**.
+-   Entre os metazoa, `Placozoa` e `Cnidaria` não têm simetria bilateral.
+-   `Xenacoelomorpha` são acelomados que antes eram classificados como `Platyhelminthes` por serem vermes chatos.
+-   Portanto, `Platyhelminthes` eram um grupo **parafilético**.
+-   `Xenacoelomorpha` não tem celoma verdadeiro nem nenhum sistema mais complexo. `Platyhelminthes` tem pseudo-celoma e `Annelida` tem celoma verdadeiro, e ambos são `Nephrozoa`, que possuem nefrídeos.
+-   Em `Protostomia`, o blastóporo se torna a boca e em `Deuterostomia` se torna o ânus.
 -   `Ecdysozoa` reúne os filos que fazem a ecdise.
 -   `Lophotrochozoa` reúne os filos que possuem a larva trocófora
     (Annelida, Mollusca) ou lofóforo (Bryozoa).
 -   `Lophophorata` reúne os filos com lofóforo, que é uma estrutura em
     forma de anel ao redor da boca que serve para alimentação.
-
-:::
 
 <br>
 
@@ -108,13 +100,14 @@ ressucitada.
 <br>
 
 ::: {layout="[[1,1], [1,1]]"}
-
-Biologia molecular revelou que Clitellata (Oligochaeta e Hirudines) são derivados da classe Polychaeta.
+Biologia molecular revelou que Clitellata (Oligochaeta e Hirudines) são
+derivados da classe Polychaeta.
 
 ![](images/FiloAnnelida2.png)
 :::
 
-A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perdida nos Clitellata.
+A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente
+foi perdida nos Clitellata.
 
 ## 
 
@@ -124,9 +117,8 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 
 ## Características e importância de Polychaeta {.smaller .scrollable}
 
-::: {.incremental}
-
--   *Poly* = muito ; *Chaeta* = Cerdas. 
+::: incremental
+-   *Poly* = muito ; *Chaeta* = Cerdas.
 -   Em português é poliqueta, masculino. Em espanhol é poliqueto.
 -   Sinapomorfia de Polychaeta: `Parapódios` (há 500 milhões de anos!).
 -   Enorme sucesso em ambientes marinhos bênticos. Poucos pelágicos.
@@ -137,14 +129,13 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 -   Muitas espécies vivem em "fumarolas" (Hydrothermal vents ou chaminés
     hidrotermais) com temperaturas maiores que 65^o^C.
 -   Outras espécies vivem em infiltrações frias (Cold seeps).
-
 :::
 
 ## Características e importância de Polychaeta {.smaller .scrollable}
 
-::: {.incremental}
-
--   Poliquetas são numericamente dominante em muitos ambientes, chegando a 75% da produção secundária de muitos ambientes.
+::: incremental
+-   Poliquetas são numericamente dominante em muitos ambientes, chegando
+    a 75% da produção secundária de muitos ambientes.
 -   Modo de vida livre (exceto Spionidae em ostras)
 -   Vivem isolados, exceto alguns Serpulida que são coloniais e
     constroem estruturas conhecidas como recifes de areia.
@@ -153,13 +144,11 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
     entre os invertebrados.
 -   Poliquetas são cultivados para alimentação em aquicultura em
     sistemas extensivos e semi-extensivos.
-
 :::
 
 ## Características e importância de Polychaeta {.smaller .scrollable}
 
-::: {.incremental}
-
+::: incremental
 -   Algumas espécies são usadas como iscas comerciais para pesca.
 -   Poliquetas bioincrustantes em madeira e conchas de bivalves de
     cultivo podem causar prejuízos.
@@ -167,11 +156,11 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 -   Papel funcional semelhante ao dos oligoquetas no ambiente terreste:
     -   Estabilização do sedimento;
     -   Aeração das camadas mais profundas do sedimento.
-    -   Servem de alimento para peixes e invertebrados, principalmente  nas fases juvenis.
-
+    -   Servem de alimento para peixes e invertebrados, principalmente
+        nas fases juvenis.
 :::
 
-##  Variedade da estrutura corporal dos poliquetas {.scrollable .smaller}
+## Variedade da estrutura corporal dos poliquetas {.scrollable .smaller}
 
 ::: {layout="[[1,1,1], [1,1,1], [1,1,1]]"}
 ![](images/Alitta-virens-4.jpeg)
@@ -191,7 +180,6 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 ![](images/Syllidae_unidentified.jpeg){width="220"}
 
 ![](images/Terebellidae-Unidentified-combined.jpeg){width="250"}
-
 :::
 
 ## Morfologia externa
@@ -202,8 +190,7 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 
 <br>
 
-::: {.incremental}
-
+::: incremental
 -   `Prostômio` = "cabeça", onde estão os olhos, as antenas e os palpos.
 -   `Peristômio` = primeiro segmento, de onde saem os cirros
     tentaculáres.
@@ -211,7 +198,6 @@ A sinapomorfia dos poliquetas são os `parapódios`, que posteriormente foi perd
 -   `cerdas` = setas de diversos tipos
 -   `Pigídio` = último segmento, contendo o cirro pigidial.
 -   `Brânquias` presentes nos parapódios ou prostômio.
-
 :::
 
 ## Prostômio e peristômio {.smaller .scrollable}
@@ -391,15 +377,13 @@ Não-tubícola ![](images/NaoTubicola.png)
 
 ## Aspectos da locomoção dos Polychaeta Errantia {.smaller .scrollable}
 
--   Possuem celoma segmentado, que confere um esqueleto hidrostático. 
+-   Possuem celoma segmentado, que confere um esqueleto hidrostático.
 -   Parapódios auxiliam no rastejamento.
 
 ::: {layout="[[1,1]]"}
-
 ![](images/Locomotion1.jpg)
 
-![](images/Locomotion2.jpg){width=320}
-
+![](images/Locomotion2.jpg){width="320"}
 :::
 
 ## Aspectos da locomoção dos Polychaeta Errantia {.smaller .scrollable}
@@ -419,7 +403,6 @@ Filme sobre o plano corporal dos poliquetas errantes
 <br>
 
 <https://www.youtube.com/watch?v=Ja6M16bdmNw>
-
 
 ## Aspectos da reprodução dos Polychaeta {.smaller}
 
@@ -471,7 +454,6 @@ seculos.
 
 ## Filme de epitoquia
 
-
 <br>
 
 Filme rápido sobre epitoquia no pacífico.
@@ -479,4 +461,3 @@ Filme rápido sobre epitoquia no pacífico.
 <br>
 
 <https://www.youtube.com/watch?v=rtd8iu3xjFg&list=PPSV>
-
