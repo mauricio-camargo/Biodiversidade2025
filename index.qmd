@@ -12,14 +12,12 @@ format: html
 
 [Como são lindos os poliquetas](Lindos_Poliquetas.html)
 
-Introdução aos poliquetas
+[Introdução aos poliquetas](Poliquetas.html)
 
 Introdução aos Bryozoa (Lophophorata)
 
 
 <!--
-[Introdução aos poliquetas](Poliquetas.html)
-
 [Introdução aos Bryozoa (Lophophorata)](Bryozoa.html)
 -->
 
