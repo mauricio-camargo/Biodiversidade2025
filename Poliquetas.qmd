@@ -39,17 +39,15 @@ editor:
 ## Notas sobre a filogenia dos Metazoa {.scrollable .smaller}
 
 -   Esta árvore é bastante recente (2020).
--   `Ctenophora` e `Porifera` são **Parazoários**. O restante dos invertebrados são **Metazoários**.
+-   `Ctenophora` e `Porifera` são **Parazoa**. O restante dos invertebrados são **Metazoa**.
 -   Entre os metazoa, `Placozoa` e `Cnidaria` não têm simetria bilateral.
 -   `Xenacoelomorpha` são acelomados que antes eram classificados como `Platyhelminthes` por serem vermes chatos.
 -   Portanto, `Platyhelminthes` eram um grupo **parafilético**.
 -   `Xenacoelomorpha` não tem celoma verdadeiro nem nenhum sistema mais complexo. `Platyhelminthes` tem pseudo-celoma e `Annelida` tem celoma verdadeiro, e ambos são `Nephrozoa`, que possuem nefrídeos.
 -   Em `Protostomia`, o blastóporo se torna a boca e em `Deuterostomia` se torna o ânus.
 -   `Ecdysozoa` reúne os filos que fazem a ecdise.
--   `Lophotrochozoa` reúne os filos que possuem a larva trocófora
-    (Annelida, Mollusca) ou lofóforo (Bryozoa).
--   `Lophophorata` reúne os filos com lofóforo, que é uma estrutura em
-    forma de anel ao redor da boca que serve para alimentação.
+-   `Lophotrochozoa` reúne os filos que possuem a larva trocófora (Annelida, Mollusca) ou lofóforo (Bryozoa).
+-   `Lophophorata` reúne os filos com lofóforo, que é uma estrutura em forma de anel ao redor da boca que serve para alimentação.
 
 <br>
 
@@ -72,7 +70,7 @@ Historicamente, o filo Annelida continha três classes:
     -   Classe Olygochaeta
     -   Classe Hirudinea
 
-No entanto, Polychaeta era claramente parafilético pois alguns filos
+No entanto, Polychaeta era claramente **parafilético** pois alguns filos
 separados tinham muita afinidade com algumas de suas famílias, e por
 isso foram incorporados aos Annelida.
 
@@ -207,9 +205,9 @@ Errantia ![](images/Prostomio6.jpg)
 
 Errantia ![](images/Prostomio1.jpg)
 
-Probóscide ![](images/ProstomioProbo.png)
+Errantia c/ Probóscide ![](images/ProstomioProbo.png)
 
-Probóscide ![](images/Prostomio_Probo2.jpeg)
+Errantia c/ Probóscide ![](images/Prostomio_Probo2.jpeg)
 
 Sedentaria ![](images/Prostomio7.jpeg)
 
