@@ -408,7 +408,7 @@ Poliquetas podem ter os sexos separados ou serem hermafroditas. Em ambos
 os casos, os gametas são carregados no celoma e liberados na coluna
 d'agua, onde ocorrerá a fecundação.
 
-Como todo Annelida, se reproduz através da larva trocófora planctônica.
+A larva resultante (planctônica) é chamada de trocófora.
 
 ![](images/TrocoforaViraJuv.png){fig-align="center"}
 
